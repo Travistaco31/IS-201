@@ -1,0 +1,40 @@
+ul{
+    font-size: 20px;
+}
+
+.TraventuresBody{
+    background-color: azure;}
+
+.Header2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.Header3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Header1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#FavoriteLocation{
+    color: olivedrab;
+}
+
+#FavoriteActivity{
+    font-style: italic;
+    font-size: small;
+}
+
+#Activity2{
+    font-size: small;
+}
+
+#Activity3{
+    font-size: small;
+}
+
+#Motto{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
